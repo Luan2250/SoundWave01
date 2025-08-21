@@ -1324,6 +1324,7 @@ body {
 .hero-lastpage {
   background-image: url(herolastpage.png);
   background-blend-mode: multiply;
+   width: 100%;
   background-color: rgba(0, 0, 0, 0.6);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1477,6 +1478,7 @@ body {
   }
 
 }
+
 
 
 
